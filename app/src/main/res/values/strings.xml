@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simpel Note</string>
+    <string name="file_baru">File Baru</string>
+    <string name="buka_file">Buka File</string>
+    <string name="simpan">Simpan</string>
+    <string name="judul">Judul</string>
+</resources>
